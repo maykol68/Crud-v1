@@ -1,6 +1,6 @@
 # README
 
-Api on Ruby on rails
+Api in Ruby on rails
 
 This README would normally document whoatever steps are necessary to get the
 application up and running.
